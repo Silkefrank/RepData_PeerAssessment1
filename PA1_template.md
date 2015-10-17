@@ -15,7 +15,6 @@ the number of steps taken in 5 minute intervals each day.
 ## Loading and preprocessing the data
 
 The data was downloaded from the course website for Reproducible Research.
-The date column is transformed into POSIXlt-class.
 
 
 ```
